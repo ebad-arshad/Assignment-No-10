@@ -176,7 +176,7 @@
 
 // Q10
 
-// var input = prompt("Enter Currency to Denominate into 100,50 & 10");
+// var input = prompt("Enter amount to withdraw!!");
 // function currencyDemonation(a) {
 //     var string = a.slice(-2);
 //     var calc = Number(a.slice(-2));
@@ -193,74 +193,8 @@
 //         string = calc.toString();
 //         ten = string.slice(0, 1);
 //     }
-//     var result = hundred + " Hundred " + ten + " Ten " + fivety + " Fivety";
+//     var result = `You will have ${hundred} hundred notes ${fivety} fivety notes ${ten} ten notes.`;
 //     return result;
 // }
 
-// console.log(currencyDemonation(input));
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// alert(currencyDemonation(input));
